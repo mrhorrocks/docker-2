@@ -7,4 +7,6 @@ Download and install Docker Desktop
 ## Usage
 Navigate to the downloaded folder in a terminal and execute this command...
 
+```sh
 docker compose up-d
+```
