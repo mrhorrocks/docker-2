@@ -5,7 +5,7 @@ Docker version: '3' nginx with php
 Download and install Docker Desktop
 
 ## Usage
-Navigate to the downloaded folder in a terminal and execute this command...
+Open a terminal and navigate to the downloaded folder and execute this command...
 
 ```sh
 docker compose up-d
